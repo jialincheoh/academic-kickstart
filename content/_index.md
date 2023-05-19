@@ -75,30 +75,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/ZWTWTRAE6GUV
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2019-09-30'
+          description: Modules include Neural Networks and Deep Learning, Improving Deep Neural Networks with Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models. 
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/G3JGQU7DNH4L
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          date_start: '2019-07-30'
+          description: Modules include Machine Learning Foundations with A Case Study Approach, Machine Learning with Regression, Machine Learning with Classification, Machine Learning with Clustering and Retrieval. 
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Machine Learning
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
     design:
       columns: '2'
   - block: collection
