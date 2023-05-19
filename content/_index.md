@@ -75,24 +75,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-https://www.coursera.org/account/accomplishments/specialization/certificate/ZWTWTRAE6GUV
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZWTWTRAE6GUV
           date_end: ''
           date_start: '2019-09-30'
           description: Modules include Neural Networks and Deep Learning, Improving Deep Neural Networks with Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models. 
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Deep Learning
-          url: ''
-        - certificate_url: 
-https://www.coursera.org/account/accomplishments/specialization/certificate/G3JGQU7DNH4L
+          url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZWTWTRAE6GUV
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/G3JGQU7DNH4L
           date_end: ''
           date_start: '2019-07-30'
           description: Modules include Machine Learning Foundations with A Case Study Approach, Machine Learning with Regression, Machine Learning with Classification, Machine Learning with Clustering and Retrieval. 
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Machine Learning
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://www.coursera.org/account/accomplishments/specialization/certificate/G3JGQU7DNH4L
     design:
       columns: '2'
   - block: collection
