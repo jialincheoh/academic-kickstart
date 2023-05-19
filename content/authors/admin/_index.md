@@ -18,7 +18,7 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Purdue University
+  - name: Purdue University, USA
     url: https://www.rcodi.org/people/jia-lin-cheoh/
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,14 +35,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Technology
-      institution: Purdue  University
+    - course: PhD in Technology (GPA 3.97/4.0)
+      institution: Purdue  University, USA
       year: Ongoing
-    - course: Master in Computer Science
-      institution: University of Illinois Urbana-Champaign
+    - course: Master in Computer Science (GPA 4.0/4.0)
+      institution: University of Illinois Urbana-Champaign, USA
       year: Ongoing
-    - course: BSc in Computer Science
-      institution: Purdue University
+    - course: Bachelor in Computer Science (GPA 3.66/4.0)
+      institution: Purdue University, USA
       year: 2020
 
 # Social/Academic Networking
